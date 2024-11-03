@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2024-11-03"
             }
+          },
+          {
+            "id": "c62e1eccedcb260a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Musings/2024-11-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-03"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,6 +103,48 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1938dcbdf0b35a3b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "71a22d4de74e5c2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Musings/2024-11-03.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-03"
+            }
+          }
+        ]
+      },
+      {
+        "id": "20e40c126af884e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "121e911a3d3d1a9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Musings/2024-11-03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-03"
+            }
+          },
+          {
             "id": "36105d3b209c12ee",
             "type": "leaf",
             "state": {
@@ -107,20 +164,6 @@
             }
           },
           {
-            "id": "121e911a3d3d1a9c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Musings/2024-11-03.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2024-11-03"
-            }
-          },
-          {
             "id": "1a69bec32f8480d5",
             "type": "leaf",
             "state": {
@@ -132,25 +175,13 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "71a22d4de74e5c2f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Musings/2024-11-03.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2024-11-03"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,13 +190,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "a40ae40efd71b078",
+  "active": "c62e1eccedcb260a",
   "lastOpenFiles": [
-    "Projects/Untitled.md",
+    "Projects/DNS Server.md",
     "Musings/2024-11-03.md",
+    "Projects/Untitled.md",
     "Musings/Untitled.md",
     "Musings",
     "Write-ups",
